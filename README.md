@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=harryphamwohhup)](https://github.com/harryphamwohhup/github-profile-trophy)
 
 <!--
 **harryphamwohhup/harryphamwohhup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
